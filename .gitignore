@@ -1,0 +1,16 @@
+# Virtual Environment
+pokemon-macro-env/
+
+# Personal Configuration
+config.py
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Logs and Screenshots
+*.log
+screenshots/
+
+# Temporary Files
+*.tmp
